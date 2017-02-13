@@ -3,7 +3,7 @@ Customizable C++ program to generate alphanumeric passwords
 
 This is a simple program you can use to generate alphanumeric passwords.
 
-1) First modify MY_CUSTOM_CONSTANT so that your code generate unique values just for you.
+1) First modify MY_CUSTOM_CONSTANT so that your code generates unique values just for you.
 
 2) Build the code
 
